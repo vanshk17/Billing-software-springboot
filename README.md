@@ -27,6 +27,9 @@ A complete billing management system developed for a real-world retail client. T
 - [React.js](w)
 - [Bootstrap 5](w)
 - [Axios](w)
+![WhatsApp Image 2025-06-27 at 5 21 43 PM (1)](https://github.com/user-attachments/assets/085a7e2e-eff6-4c29-ab61-d3e2dec57767)
+
+
 
 ### Backend:
 - [Spring Boot](w)
