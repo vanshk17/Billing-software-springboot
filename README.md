@@ -17,6 +17,9 @@ A complete billing management system developed for a real-world retail client. T
 - **Cloud-Ready Architecture**
 
 ---
+![WhatsApp Image 2025-06-27 at 5 21 43 PM (2)](https://github.com/user-attachments/assets/cfdeb27e-29e7-49d3-9a5f-549ade00e7b8)
+
+
 
 ## 🔧 Tech Stack
 
@@ -41,6 +44,7 @@ A complete billing management system developed for a real-world retail client. T
   - **RDS** (optional) for managed MySQL
 
 ---
+![WhatsApp Image 2025-06-27 at 5 21 43 PM (4)](https://github.com/user-attachments/assets/408ba07a-8de2-4176-ab4f-8cfd700e88b6)
 
 ---
 
